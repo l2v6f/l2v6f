@@ -1,14 +1,13 @@
-# Hellooo Welcome To My Git Hub 👨🏾‍💻🚀
+# Hellooo Welcome To My Git Hub! 🚀
 
-## What's up ? 👋🏿
+## What's up ? 👋
 
-Well...
 <p>
 My name is Laura Fernandes, currently I'm studing to be a computer scientist at Universidade Católica de Brasília 👨‍🎓💻.
 I have been working with progaming since 2020 🧠, about me:
 
 - 🔬 Looking for knowledge in the AI and DevOps
-- 👨‍💼 Exactly now: Working as research student at AILAB
+- 👨‍💼 Working as research student at AILAB
 - 🌱 Currently learning the languages: Python, R and Java
 - 🤔 Hard study in the frameworks/librarys:
   - Pandas
