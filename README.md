@@ -6,7 +6,7 @@
 My name is Laura Fernandes, currently I'm studing to be a computer scientist at Universidade Católica de Brasília 👨‍🎓💻.
 I have been working with progaming since 2020 🧠, about me:
 
-- 🔬 Looking for knowledge in the AI and DevOps
+- 🔬 Looking for knowledge in the AI, DevOps and Data Science.
 - 👨‍💼 Working as research student at AILAB
 - 🌱 Currently learning the languages: Python, R and Java
 - 🤔 Hard study in the frameworks/librarys:
