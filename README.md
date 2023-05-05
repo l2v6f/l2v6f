@@ -7,7 +7,7 @@ My name is Laura Fernandes, currently I'm studing to be a computer scientist at 
 I have been working with progaming since 2020 🧠, about me:
 
 - 🔬 Looking for knowledge in the AI, DevOps and Data Science.
-- 👨‍💼 Working as research student at AILAB
+- 👨‍💼 Working as a intern at Banco Central do Brasil
 - 🌱 Currently learning the languages: Python, R and Java
 - 🤔 Hard study in the frameworks/librarys:
   - Pandas
