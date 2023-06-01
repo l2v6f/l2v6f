@@ -6,9 +6,9 @@
 My name is Laura Fernandes, currently I'm studing to be a computer scientist at Universidade Católica de Brasília 👨‍🎓💻.
 I have been working with progaming since 2020 🧠, about me:
 
-- 🔬 Looking for knowledge in the AI, DevOps and Data Science.
-- 👨‍💼 Working as a intern at Banco Central do Brasil
-- 🌱 Currently learning the languages: Python, R and Java
+- 🔬 Looking for knowledge in Data Science and AI.
+- 👨‍💼 Working as a intern at IBM
+- 🌱 Currently learning the languages: Python and R.
 - 🤔 Hard study in the frameworks/librarys:
   - Pandas
   - Flask, FastAPI, Django
@@ -16,8 +16,9 @@ I have been working with progaming since 2020 🧠, about me:
   - relational (MySQL, PostgreSQL)
   - non-relational (MongoDB)
   - Pytest
+  - Teradata 
 
-- ✨ About me: I am a very dedicated student, currently studying to become a developer.
+- ✨ About me: I am a very dedicated student, currently studying to become a Data Scientist.
 
 ## Git info :octocat:
 
